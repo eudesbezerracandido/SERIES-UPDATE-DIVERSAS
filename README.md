@@ -122,7 +122,7 @@ channels>
 
 <channels>
 <channel>
-<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] O LIVRO DE BOBA FETT-O MNADALORIANO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] O LIVRO DE BOBA FETT-O MANDALORIANO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/O-LIVRO-DE-BOBA-FETT-UPDATE/main/README.md</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/kVelEAAPWMMXCNwsX7YVE8iOlYs.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
