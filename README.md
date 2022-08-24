@@ -430,6 +430,47 @@ channels>
 </channel>
 </channels>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] Dr. BRAIN-NEURO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/-Dr.-BRAIN-NEURO-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/uVpkJTk5sRn3HR6Gcs9nqfxzcl0.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info> 
+[COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] VERDADES SECRETAS [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/VERDADES-SECRETAS-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/8knUVZOTnbVW1zpUDp9pGASIdGr.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info> 
+[COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] HALO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/HALO-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/cRhJp1Aqi3CQcXb5Z3T1ZJbjk4u.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info> 
+[COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+
+
 
 
 
