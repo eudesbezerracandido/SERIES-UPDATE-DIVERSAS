@@ -586,6 +586,46 @@ channels>
 </channel>
 </channels>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] O HOMEM MAIS ODIADO DA INTERNET [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/O-HOMEM-MAIS-ODIADO-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/jSyxV1FWldGztA2xyjC8HSo4l1d.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info> 
+[COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] A LISTA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/A-LISTA-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/yXtlv2MFYVpzGlQSDY6bO1RHBw7.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info> 
+[COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] CARNIVAL ROW [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/CARNIVAL-ROW-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/3UupR0nS9R6Di9letdz4ftX95GF.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info> 
+[COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+
 
 
 
