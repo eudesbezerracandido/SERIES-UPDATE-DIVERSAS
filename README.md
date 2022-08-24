@@ -474,7 +474,7 @@ channels>
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] GAME OF THRONES [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/-GAME-OF-THRONES-UPDATE/main/README.md</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/ArXiKVTmyZYrxbWLsy2XU1Jkcr9.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info> 
@@ -487,7 +487,7 @@ channels>
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] UNCOUPLED [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/-UNCOUPLED-UPDATE/main/README.md</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/SbgLxilyL5d5F4ghy8MabVJK6g.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info> 
@@ -500,13 +500,15 @@ channels>
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] INFINITI [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/INFINITI-UPDATE/main/README.md</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/a3h5VpRcCeUk0alWx2nsv0D5CYy.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info> 
 [COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
 </channel>
 </channels>
+
+
 
 
 
