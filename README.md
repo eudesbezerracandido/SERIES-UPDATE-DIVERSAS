@@ -161,7 +161,7 @@ channels>
 
 <channels>
 <channel>
-<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] SÉRIE MULHER HULK [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white]  MULHER HULK [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/MULHER-HULK-UPDATE/main/README.md</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/tnaznOwdOiMnGJ87zsQwEO1rV6w.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
@@ -171,6 +171,18 @@ channels>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] A CASA DO DRAGÃO  [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/A-CASA-DO-DRAG-O-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/ruHPkmmAwBTCzNXtHot18rs6ctN.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info> 
+[COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
 
 
 
