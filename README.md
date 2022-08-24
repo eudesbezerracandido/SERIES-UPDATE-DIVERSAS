@@ -352,6 +352,46 @@ channels>
 </channel>
 </channels>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] DRÁCULA Com jonathan Rhys Meyes [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/DRACULA-Jonathan-Rhys-Meyers-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/fLv989KUogxA6eV0GZWfe71iSie.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info> 
+[COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] DRÁCULA 1897 [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/DR-CULA-1897-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/34gkyMEtfHlEhX1y0O09ZFnJyPn.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info> 
+[COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] CARCEREIROS [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/CARCEREIROS-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/rXtEDERDcuwMSB6cRSoGvjRk13C.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info> 
+[COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+
 
 
 
