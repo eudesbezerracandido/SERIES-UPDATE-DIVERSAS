@@ -324,7 +324,7 @@ channels>
 <info> 
 [COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
 </channel>
-</channels>
+</channels> 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
