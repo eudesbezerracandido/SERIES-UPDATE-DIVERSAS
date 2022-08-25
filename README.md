@@ -643,15 +643,15 @@ channels>
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] CIDADE INVISIVEL [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
-<externallink>https://www.themoviedb.org/t/p/original/hh4uZv4lVkTBsBqtHCA5B4EMHBR.jpg</externallink>
-<thumbnail></thumbnail>
+<externallink>magnet:?xt=urn:btih:a47bd861a3b4e60b18a0c98f4b7a671767bf68d1</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/hh4uZv4lVkTBsBqtHCA5B4EMHBR.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info> 
 [COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< magnet:?xt=urn:btih:a47bd861a3b4e60b18a0c98f4b7a671767bf68d1
 
 <channels>
 <channel>
