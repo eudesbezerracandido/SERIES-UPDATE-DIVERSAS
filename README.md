@@ -618,7 +618,7 @@ channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] SEM LIMITES [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/SEM-LIMITES-UPDATE/main/README.md</externallink>
-<thumbnail></thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/6Na0ORrO7nrxYzYcfw83Xn2aYTg.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info> 
 [COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
