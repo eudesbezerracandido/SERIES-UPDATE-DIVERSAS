@@ -1,6 +1,20 @@
 # SERIES-UPDATE-DIVERSAS
 
 
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] O CASO EVANDRO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/O-CASO-EVANDRO-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/lN0b8GhhylzQxtFclEGj7cJhb2B.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info> 
+[COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
