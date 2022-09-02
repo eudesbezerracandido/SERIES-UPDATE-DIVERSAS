@@ -2,6 +2,21 @@
 
 
 
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] O SENHOR DOS ANÉIS [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/O-SEMHOR-DOS-ANEIS-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/utAMIYnHweINM2jiMJYII9ILCw2.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info> 
+[COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
