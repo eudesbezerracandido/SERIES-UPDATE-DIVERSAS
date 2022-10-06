@@ -2,7 +2,7 @@
 
 
 
-channels>
+<channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] DAHMER: UM CANIBAL AMERICANO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/DAHMER-UPDATE/main/README.md</externallink>
@@ -106,7 +106,7 @@ channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-channels>
+<channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] DETOX [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/DETOX-UPDATE/main/README.md</externallink>
@@ -119,7 +119,7 @@ channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-channels>
+<channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] ILHA DE FERRO - SÉRIE GLOBOPLAY [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/ILHA-DE-FERRO-UPDATE/main/README.md</externallink>
@@ -249,7 +249,7 @@ channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-channels>
+<channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] O MANDALORIANO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/MANDALORIANO-UPDATE/main/README.md</externallink>
