@@ -1,8 +1,23 @@
 # SERIES-UPDATE-DIVERSAS
 
 
- 
 
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] RESURRETION [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/RESSURECTION-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/A3ePoKLnWuTZcq38GeXWkP67qOQ.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info> 
+[COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+ 
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] TRAVESSIA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
