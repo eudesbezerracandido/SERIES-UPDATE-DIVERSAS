@@ -3,6 +3,17 @@
 
 
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] JACK  RYAN [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/JACK-RYAN-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/37blol7oaCybmIeAikUZ3bWhTz6.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info>O agente Jack Ryan é mandado a Moscou para trabalhar como consultor financeiro de um bilionário. O empregador, na verdade, arma para que Ryan leve a culpa por um ataque terrorista ao sistema financeiro dos EUA. O herói precisa, então, correr para limpar seu nome e salvar sua esposa, que foi pega como refém do bilionário.</info>
+</channel>
+</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
