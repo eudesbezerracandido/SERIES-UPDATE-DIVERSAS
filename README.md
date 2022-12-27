@@ -7,6 +7,17 @@
 
 <channels>
 <channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] THE WITCHER [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/THE-WITCHER-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/vpfJK9F0UJNcAIIeC42oJyKMnZQ.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] JACK  RYAN [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/JACK-RYAN-UPDATE/main/README.md</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/37blol7oaCybmIeAikUZ3bWhTz6.jpg</thumbnail>
