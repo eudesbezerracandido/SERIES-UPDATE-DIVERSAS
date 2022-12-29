@@ -1,7 +1,17 @@
 # SERIES-UPDATE-DIVERSAS
 
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] TRAIÇÃO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/TRAI-O-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/rrcLIpB7itpY54kZeTQvBraf9vN.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
