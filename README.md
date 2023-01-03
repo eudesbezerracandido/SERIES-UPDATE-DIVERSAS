@@ -851,12 +851,11 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] SUITS [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] SUITS - HOMENS DE TERNO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/SUITS-UPDATE/main/README.md</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/nVz7cZZ59PsCLgiWFC0M0N6AFC3.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/ubEYUaE1EOBnSgb1OteAeGJP1E5.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
-<info> 
-[COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+<info>Mesmo sem se formar e sem licença para advogar, um jovem brilhante impressiona um importante advogado e consegue uma cobiçada posição em sua firma.</info> 
 </channel>
 </channels>
 
