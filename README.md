@@ -2,9 +2,19 @@
 
 
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] O ÚLTIMO CARA DA TERRA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/-LTIMO-CARA-DA-TERRA-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/h7Deh3JXZVuhUf5qi6ZiZf6MjQF.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info>Phil Miller (Will Forte) era apenas um cara normal que amava sua família e odiava seu emprego no banco - agora ele parece ser a última alma viva do planeta e a última esperança da humanidade.  O ano é 2020 e, depois que um vírus letal acabou com a vida humana em todo o planeta, apenas Phil sobreviveu. Usando seu carro, ele rodou o país em busca de outros sobreviventes, tendo viajado para todas as cidades dos Estados Unidos, México e Canadá, sem encontrar ninguém.  Enquanto retorna para sua cidade natal em Tucson, Phil chega à conclusão de que é, com quase toda a certeza, o último homem vivo sobre a face da Terra.</info>
+</channel>
+</channels>
 
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
 <channels>
 <channel>
