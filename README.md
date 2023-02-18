@@ -6,6 +6,18 @@
 
 <channels>
 <channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] WOLF PACK [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/WOLF-PACK-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/tamIrBPmDdUKsd55b0HITfaJ7Af.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info>Baseada no livro de mesmo nome, Wolf Pack é uma série sobrenatural que acompanha uma série de eventos bizarros na vida de quatro adolescentes após um misterioso incêndio florestal na Califórnia. No presente, Everett e Blake são atacados por uma criatura enorme que acorda quando o fogo se espalha pela floresta. Ao fugirem, a dupla encontra Luna e Harlan, que há 16 anos tiveram a vida transformada por um incêndio semelhante. Luna e Harlan são irmãos gêmeos que foram adotados por um guarda florestal após um terrível incêndio, além de não serem adolescentes comuns. Com a lua cheia, o grupo percebe que todos compartilham a mesma mordida e sangue de lobisomem. Agora, o quarteto se une para descobrir sua origem e o motivo por trás dos incêndios que têm causado destruição na região por anos.</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] O ÚLTIMO CARA DA TERRA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/-LTIMO-CARA-DA-TERRA-UPDATE/main/README.md</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/h7Deh3JXZVuhUf5qi6ZiZf6MjQF.jpg</thumbnail>
