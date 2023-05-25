@@ -2,6 +2,19 @@
 
 
 
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] A ENFERMEIRA - Minisérie [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/A-ENFERMEIRA-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/c4PR4gGK9WUEKcPlF3i90eyyDAL.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
  
 <channels>
