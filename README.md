@@ -2,6 +2,18 @@
 
 
 
+
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] SEQUESTRO NO AR [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/sequestro-no-ar-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/ve9nizFrjgIcuoceapsVbPYt5jM.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
  
 <channels>
