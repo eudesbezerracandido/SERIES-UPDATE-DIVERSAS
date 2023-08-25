@@ -2,7 +2,17 @@
 
 
 
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] RAGNAROK [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/RAGNAROK-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/xPuDpPxQBxarKxdSlzEMvr4Hu6o.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
 <channels>
 <channel>
