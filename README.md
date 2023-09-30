@@ -1,7 +1,18 @@
 # SERIES-UPDATE-DIVERSAS
 
 
-
+ 
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] THE CHOSEN [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/THE-CHOSEN-UPDATE/main/README.md</externallink>
+<thumbnail>https://www.themoviedb.org/tv/223400-the-chosen-one</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
 <channels>
 <channel>
