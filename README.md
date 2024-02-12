@@ -6,6 +6,18 @@
 
 <channels>
 <channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] A KILLER PARADOX [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/A-KILLER-PARADOX-UPDATE/main/README.md</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/rkXuKwKoGT2V0flyBaoh8IjFA6N.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] MESTRES DO AR [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/MESTRES-DO-AR-UPDATE/main/README.md</externallink>
 <thumbnail>https://media.themoviedb.org/t/p/original/2LbDCJHciI3pqcy83twtmvrJfk2.jpg</thumbnail>
