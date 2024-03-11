@@ -4,6 +4,20 @@
 
 
 
+
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] THE WALKING DEAD [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/THE-WALKING-DEAD-THE-ONES/main/README.md</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/hk2dQGklfF6pwWMTzNqxbVQ56ng.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] ENTREVISTA COM VAMPIRO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
