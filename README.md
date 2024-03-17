@@ -6,7 +6,17 @@
 
 
 
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] ÚLTIMO ATO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/CA-A-AO-HOMEM-LTIMO-ATO-UPDATE/main/README.md</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/cLOsuWCyMexP2Mz2WLXx7ClfDPN.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info></info>
+</channel>
+</channels>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
 <channels>
 <channel>
